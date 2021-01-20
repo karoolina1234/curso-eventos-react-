@@ -1,0 +1,15 @@
+.rodape-card{
+    color:#614EA6;
+    height: 35px;
+}
+
+.card-text{
+    max-height: 100px;
+    overflow: hidden;
+
+}
+
+.img-cartao{
+    max-height: 300px;
+    min-width: 100%;
+}
